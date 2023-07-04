@@ -2,9 +2,9 @@
 This is a basic Chrome Extension base template for starting new projects off of initialized with a MIT license.
 
 ## Features
-- .Easy bookmarking: Make it easy for users to bookmark problems on Codeforces. This could be achieved by adding a button to the Codeforces problem page that users can click to bookmark the problem.
-- .Organize bookmarks: Allow users to organize their bookmarks in a way that makes sense to them. This could be done by allowing users to create folders or tags for their bookmarks.
-- .Quick access: Make it easy for users to access their bookmarks. This could be done by adding a button to the Chrome toolbar that opens a dropdown menu with all of the user's bookmarks.
+- Easy bookmarking: Make it easy for users to bookmark problems on Codeforces. This could be achieved by adding a button to the Codeforces problem page that users can click to bookmark the problem.
+- Organize bookmarks: Allow users to organize their bookmarks in a way that makes sense to them. This could be done by allowing users to create folders or tags for their bookmarks.
+- Quick access: Make it easy for users to access their bookmarks. This could be done by adding a button to the Chrome toolbar that opens a dropdown menu with all of the user's bookmarks.
 
 ## Author
 First Last
